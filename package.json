@@ -37,6 +37,6 @@
   },
   "proxy": "http://localhost:3002/",
   "devDependencies": {
-    "html-webpack-plugin": "^3.2.0"
+    "html-webpack-plugin": "^5.5.0"
   }
 }
